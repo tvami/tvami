@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvami)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvami)&theme=react](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvami&layout=compact&theme=react&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tvami/tvami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
